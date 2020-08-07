@@ -8,7 +8,7 @@ Standard format of input data is Template.csv
 * First column name must be "Metabolite"
 * There is no limitation on number of column
 
-# Change Data to Your Data
+# Change to Your Data
 Just need to :
 * prepare your data with standard format 
 * change your file name to Template.csv
