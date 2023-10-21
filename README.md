@@ -8,6 +8,7 @@ This tool offers a voice-assisted method for sample aliquoting. It guides the us
 * Microphone access (a prompt will request for this when running the code)
 
 ## Setting Up
+* Open Google Colab from [here](https://colab.research.google.com/github/myprogrammerpersonality/Voice_Recognition/blob/master/Liquid_Handling_Assistant_Voice.ipynb).
 * Prepare Your Data: Modify the content of Template.csv to match your sample data. Retain the filename as "Template.csv". The format of your CSV should resemble:
 ```python
 Metabolite1,Metabolite2
